@@ -14,5 +14,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Documents and Settings/frans.gunawan.ext/Desktop/Robert/Installer/struts2-fullhibernatecore-plugin-2.2.2-GA.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
